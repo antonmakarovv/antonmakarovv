@@ -1,0 +1,61 @@
+# Hi there! 👋 I'm Anton Makarov
+
+## 🚀 About Me
+
+I'm a Beginner Frontend Developer passionate about building modern web applications. Currently working towards becoming a Fullstack Developer to expand my capabilities and build complete products.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🎯 Goals
+
+- 📚 Learn Backend technologies to become a Fullstack Developer
+- 💼 Contribute to interesting projects and open-source initiatives
+- 🌱 Continuously grow and explore new technologies
+
+---
+
+## 📈 Skills
+
+| Technology |
+|------------|
+| JavaScript |
+| HTML5 |
+| CSS3 |
+| Git | 
+
+---
+
+## 📫 Contact
+
+Feel free to reach out for collaboration or just a chat!
+
+---
+
+## 💡 Interests
+
+- Modern web technologies
+- UI/UX design
+- Application architecture
+- Clean code and best practices
+
+---
+
+> "A journey of a thousand miles begins with a single step" — Lao Tzu
+
+---
+
+<div align="center">
+  <i>⚡ Always learning, always growing ⚡</i>
+</div>
