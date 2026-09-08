@@ -41,6 +41,10 @@ I'm a Beginner Frontend Developer passionate about building modern web applicati
 
 Feel free to reach out for collaboration or just a chat!
 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/944847006239690812)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=flat-square&logo=vk&logoColor=white)](https://vk.ru/id614200733)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/tonxhoo)
+
 ---
 
 ## 💡 Interests
