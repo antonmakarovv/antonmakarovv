@@ -28,7 +28,7 @@ I'm a Beginner Frontend Developer passionate about building modern web applicati
 
 ## 📈 Skills
 
-| Technology | Soft Skills |
+| Hard Skills | Soft Skills |
 |------------|-------------|
 | JavaScript | Problem Solving |
 | HTML5 | Communication |
