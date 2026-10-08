@@ -14,7 +14,8 @@ I'm a Beginner Frontend Developer passionate about building modern web applicati
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png))
+![GitHub](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png)
 
 ---
 
