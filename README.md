@@ -41,9 +41,9 @@ I'm a Beginner Frontend Developer passionate about building modern web applicati
 | HTML5 | Communication |
 | CSS3 | Teamwork |
 | Git | Adaptability |
-|            | Time Management |
-|            | Critical Thinking | 
-
+| GitHub| Time Management |
+| Vite  | Critical Thinking | 
+| Figma ||
 ---
 
 ## 📫 Contact
